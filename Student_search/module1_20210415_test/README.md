@@ -1,3 +1,2 @@
-# tutorials
-* Youtube '생활코딩' 채널에서 진행하는 "머신러닝 야학 3기"를 수강하며 실습한 코드들을 올려놓았습니다.
-* Youtube 생활코딩 : <https://www.youtube.com/c/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A91/featured>
+# Student_search
+* 이름, 성별, 생일, 핸드폰 번호, 회사 의 정보가 있는 학생 데이터에서 원하는 조건을 선택, 검색하여 대상 학생을 찾는 프로그램
