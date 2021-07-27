@@ -1,0 +1,2 @@
+C:\Users\ypopp\WaveletTransform\Debug\WaveletTransform.exe
+C:\Users\ypopp\WaveletTransform\Debug\WaveletTransform.pdb
