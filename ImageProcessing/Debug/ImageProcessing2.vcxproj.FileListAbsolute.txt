@@ -1,0 +1,2 @@
+C:\Users\ypopp\source\repos\ImageProcessing2\Debug\ImageProcessing2.exe
+C:\Users\ypopp\source\repos\ImageProcessing2\Debug\ImageProcessing2.pdb
